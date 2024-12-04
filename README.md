@@ -36,5 +36,4 @@
 <br>
 1. 이 저장소를 클론합니다:
 git clone https://github.com/Yes2eul/IOS-Assignment-2.git
-<br>
 2. Xcode에서 프로젝트를 열고, Simulator에서 실행합니다.
