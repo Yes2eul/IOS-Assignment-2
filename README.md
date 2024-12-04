@@ -20,7 +20,7 @@
 - 제한 시간이 지나면 게임이 종료됩니다.
 
 점수 계산
-- 각 버블의 색상별 점수 계산 및 최고 점수 기록 관리.
+- 각 버블의 색상별 점수 계산
 - 최고 점수를 기록하여 플레이어의 진행 상황을 관리합니다.
 
 <div style="display: flex; justify-content: space-around; gap: 10px;">
@@ -34,7 +34,7 @@
 
 설치 및 실행 방법 🚀
 <br>
-이 저장소를 클론합니다:
+1. 이 저장소를 클론합니다:
 git clone https://github.com/Yes2eul/IOS-Assignment-2.git
 <br>
-Xcode에서 프로젝트를 열고, Simulator에서 실행합니다.
+2. Xcode에서 프로젝트를 열고, Simulator에서 실행합니다.
